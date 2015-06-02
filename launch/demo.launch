@@ -1,0 +1,7 @@
+<launch>
+
+    <node
+        pkg="CREATE_DEMO" type="robot.py" name="robot_demo">
+    </node>
+
+</launch>
